@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Ahmed Badawy
+- 👀 I’m interested in Frontend developing.
+- 🌱 I’m currently learning React.
+- 💞️ I’m looking to collaborate on any interesting project related to frontend field.
+- 😊 If you have an opportunity for me don't hesitate contacting me.
+- 
+- 📫 You can reach me => [here❤️](https://ahmedbadawy.netlify.app)
